@@ -1,7 +1,7 @@
 # c20-86-m-no-code
 ## Proyecto de sitio e-commerce de Velas Artesanales. 
 
-<img src= "C:\Users\Meu Computador\Desktop\No code\Imagen\Sticker Etiqueta Velas Artesanales Orgánico Amarillo.png">
+<img src= "Imagen\Sticker Etiqueta Velas Artesanales Orgánico Amarillo.png">
 
 ***Descubre la Magia de las Velas Aromáticas Artesanales***
 
@@ -12,8 +12,6 @@
 # Colaboradores
 •Ydania Laya
  Analista QA
- [![LinkedIn](https://img.shields.io/badge/-Ydania%20Laya%20R%20-blue?style=flat&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/ydania-laya//)](https:https://www.linkedin.com/in/ydania-laya//)
-
 
  
 •M.Karina Rivera
@@ -23,8 +21,6 @@
  
 •Jesica Zampar 
  Analista de datos
-
- [![LinkedIn](https://img.shields.io/badge/-Jesica%20Zampar%20-blue?style=flat&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/jesica-zampar-13z//)](https:https://www.linkedin.com/in/jesica-zampar-13z//)
 
  # Tecnologías:
 
