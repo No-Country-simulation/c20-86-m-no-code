@@ -15,7 +15,7 @@
 [LinkedIn](https://www.linkedin.com/in/ydania-laya/)
  
 •M.Karina Rivera
- Asistente general
+ UX/UI
  [LinkedIn](https://www.linkedin.com/in/maria-karina-rivera-646aaa252?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 
