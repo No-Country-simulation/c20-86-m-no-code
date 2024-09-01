@@ -27,6 +27,9 @@
  
 
  # Tecnologías:
+• google from
+• google Meet
+• Canva
 
 
  
