@@ -9,7 +9,7 @@
  
  Cada vela es única, pensada para iluminar tus momentos especiales y llenar tu hogar de aromas que te transportarán a un estado de relajación y bienestar. Disfruta de la artesanía y la pasión en cada vela, creada para hacer de tu espacio un lugar aún más especial.
 
-# Colaboradores
+# Autores
 •Ydania Laya
  Analista QA
 [LinkedIn](https://www.linkedin.com/in/ydania-laya/)
@@ -30,6 +30,8 @@
 • google from
 • google Meet
 • Canva
+- Trello
+  
 
 
  
