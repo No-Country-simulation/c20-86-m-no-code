@@ -27,9 +27,9 @@
  
 
  # Tecnologías:
-• google from
-• google Meet
-• Canva
+- Google from
+- Google Meet
+- Canva
 - Trello
   
 
