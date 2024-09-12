@@ -11,7 +11,7 @@
 
 # Autor
 •Jesica Zampar 
- project manager y research.
+ project manager,  research y analista de datos.
  [LinkedIn](https://www.linkedin.com/in/jesica-zampar-13z/)
  
  # Tecnologías:
