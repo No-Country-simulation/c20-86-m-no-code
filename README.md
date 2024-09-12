@@ -1,6 +1,8 @@
 # c20-86-m-no-code
 ## Proyecto de sitio E-Commerce de Velas Artesanales
 
+Este es un proyecto pensado y diseñado para un cliente que desea expandir sus productos y ventas al mercado a través de una tienda online, exactamente una e-commerce. 
+
 <img src= "Imagen\Banner web horizontal nuevos productos  minimalista orgánico  verde y marrón .png">
 
 ***Descubre la Magia de las Velas Aromáticas Artesanales***
