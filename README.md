@@ -21,6 +21,9 @@ Este es un proyecto pensado y diseñado para un cliente que desea expandir sus p
 - Google Meet
 - Canva
 - Trello
+
+# Enlace del sitio web creado en canva:
+https://www.canva.com/design/DAGPY3hE3UY/TkAo_dK8OTSyBdJJFD9C1w/edit?utm_content=DAGPY3hE3UY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
   
 
 
