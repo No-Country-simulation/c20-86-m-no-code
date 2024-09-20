@@ -3,8 +3,6 @@
 
 Este es un proyecto pensado y diseñado para un cliente que desea expandir sus productos y ventas al mercado a través de una tienda online, exactamente una e-commerce. 
 
-<img src= "Imagen\Banner web horizontal nuevos productos  minimalista orgánico  verde y marrón .png">
-
 ***Descubre la Magia de las Velas Aromáticas Artesanales***
 
  Nuestras velas están elaboradas a mano con ingredientes 100% naturales y fragancias cuidadosamente seleccionadas para brindarte un ambiente cálido y acogedor. 
