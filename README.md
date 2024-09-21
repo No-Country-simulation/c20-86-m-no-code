@@ -1,6 +1,8 @@
 # c20-86-m-no-code
 ## Proyecto de sitio E-Commerce de Velas Artesanales
 
+https://github.com/No-Country-simulation/c20-86-m-no-code/blob/main/Aroma%20de%20Luz.%20Velas%20artesanales_20240919_114932_0000.png
+
 Este es un proyecto pensado y diseñado para un cliente que desea expandir sus productos y ventas al mercado a través de una tienda online, exactamente una e-commerce. 
 
 ***Descubre la Magia de las Velas Aromáticas Artesanales***
