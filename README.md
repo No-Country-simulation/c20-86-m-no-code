@@ -1,7 +1,7 @@
 # c20-86-m-no-code
 ## Proyecto de sitio E-Commerce de Velas Artesanales
 
-<img src= "Aroma de Luz. Velas artesanales_20240919_114932_0000.png.png">
+<img src= "Aroma de Luz. Velas artesanales_20240919_114932_0000.png">
 
 
 Este es un proyecto pensado y diseñado para un cliente que desea expandir sus productos y ventas al mercado a través de una tienda online, exactamente una e-commerce. 
