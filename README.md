@@ -18,7 +18,7 @@ Este es un proyecto pensado y diseñado para un cliente que desea expandir sus p
  [LinkedIn](https://www.linkedin.com/in/jesica-zampar-13z/)
  
  # Tecnologías:
-- Google from
+- Google Forms
 - Google Meet
 - Canva
 - Trello
